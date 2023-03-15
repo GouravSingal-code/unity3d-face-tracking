@@ -4,5 +4,3 @@
 
 
 Demo : https://youtu.be/deeEau3pQQE
-
-More details : https://blog.hosni.me/2018/05/pfa-unity3d-realtime-face-tracking.html
